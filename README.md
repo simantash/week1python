@@ -1,6 +1,6 @@
 This is a simple calculator built using Python that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 <br>
-Author- Simanta Hazarika
+Author- Simanta Hazarika <br>
 Features
 Addition (+)
 Subtraction (-)
